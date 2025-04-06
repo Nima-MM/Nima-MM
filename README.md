@@ -3,8 +3,8 @@
 -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99184393/230742819-3dcdbb28-af0e-4223-b1c4-4fa6e492030d.gif" width="100%"/>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNhMXp0aHhjZmFoZjNrZGF1OWplaGl1Mmd2enY3Mmpjdjc0d3J3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="280" height="74" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI3YzlwemZ0a2FtODJrY2FwMDM5eWM3eXI0dmJtemh0cGpybWxjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiY0YJnr7Snd6QYTHG/giphy.gif" width="180" height="70" />
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNhMXp0aHhjZmFoZjNrZGF1OWplaGl1Mmd2enY3Mmpjdjc0d3J3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="280" height="74" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
 </div>
 
 <h1 align="center">Nima Mir Marashi</h1>
@@ -53,7 +53,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-MM&layout=compact&theme=radical" 
     alt="Nima-MM's Top Languages"
-    width="48%"
+    width="25%"
   />
 </div>
 
