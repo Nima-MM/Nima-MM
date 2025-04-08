@@ -1,4 +1,4 @@
-<!-- 
+<!--
  ## Hi there 👋
 -->
 
@@ -10,25 +10,30 @@
 </div>
 
 <h1 align="center">Nima Mir Marashi</h1>
-
-<div align="center">
-  <!-- Badges skills or interests -->
-   <!-- <img src="https://img.shields.io/badge/-Nima%20Mir%20Marashi-blue?style=for-the-badge" alt="Name Badge" /> <br/> -->
- <img src="https://img.shields.io/badge/-Web%20Developer-blueviolet?style=for-the-badge" alt="Web Developer Badge" />
-   <!-- <img src="https://img.shields.io/badge/Hobby-Warhammer%2040k-9cf?style=for-the-badge" alt="Warhammer 40k Badge" /> -->
-</div>
 <div align="center">
   <h5>
     <!-- <strong>Web Developer</strong>,<br/> -->
     <strong>Warhammer 40k</strong> enthusiast by heart.
   </h5>
 </div>
+<div align="center">
+  <!-- Badges skills or interests -->
+   <!-- <img src="https://img.shields.io/badge/-Nima%20Mir%20Marashi-blue?style=for-the-badge" alt="Name Badge" /> <br/> -->
+ <img src="https://img.shields.io/badge/-Web%20Developer-blueviolet?style=for-the-badge" alt="Web Developer Badge" />
+<h2>Try my latest Project-Live:</h2> 
+<a href="https://lagerkontrolle.nima-mm.com">
+ <img src="https://img.shields.io/badge/Click-StockEase%20-blueviolet?style=for-the-badge" alt="Web Developer Badge" width="10%"/> <br>
+<img src="Assets/StockEase/brock-wegner-epjtnifIn7Q-unsplash_medium_bearbeitet.jpg" alt="StockEase - Webapplikation"  width="200" height="200" />
+</a>
+   <!-- <img src="https://img.shields.io/badge/Hobby-Warhammer%2040k-9cf?style=for-the-badge" alt="Warhammer 40k Badge" /> -->
+</div>
+
 <!-- 
 ---
 
-
 ---
-<!-- 
+
+<!--
 <div align="center">
   <h2>About Me</h2>
   <p>
