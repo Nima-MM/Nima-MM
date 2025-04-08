@@ -20,7 +20,10 @@
   <!-- Badges skills or interests -->
    <!-- <img src="https://img.shields.io/badge/-Nima%20Mir%20Marashi-blue?style=for-the-badge" alt="Name Badge" /> <br/> -->
  <img src="https://img.shields.io/badge/-Web%20Developer-blueviolet?style=for-the-badge" alt="Web Developer Badge" />
-<h2>Try my latest Project-Live:</h2> 
+<div>
+<h2>Try my latest <span><a href="https://www.nima-mm.de/projekte/">Projects</a></span>-Live:</h2> 
+Ask me for the Credentials ORrRr find out :)
+</div>
 <a href="https://lagerkontrolle.nima-mm.com">
  <img src="https://img.shields.io/badge/Click-StockEase%20-blueviolet?style=for-the-badge" alt="Web Developer Badge" width="10%"/> <br>
 <img src="Assets/StockEase/brock-wegner-epjtnifIn7Q-unsplash_medium_bearbeitet.jpg" alt="StockEase - Webapplikation"  width="200" height="200" />
